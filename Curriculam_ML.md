@@ -28,7 +28,7 @@ __Task List__
 * [] Algorithm Design and complexity
 
 
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010)
 
 * [X] lecture 1
 * [X] lecture 2
@@ -44,7 +44,7 @@ __Task List__
 * [] lecture 12
 * [] lecture 13
 
-[Algorithm Design and complexity](https://courses.edx.org/courses/course-v1:PennX+SD3x+2T2017/course/)
+[Algorithm Design and complexity](https://courses.edx.org/courses/course-v1:PennX+SD3x+2T2017/course)
 
 * [x] week 1
 * [] week 2
@@ -66,7 +66,7 @@ __Task List__
 * [] video 11
 * [] video 12
 
-[probability and statistics](https://courses.edx.org/courses/course-v1:MITx+6.431x+2T2019/course/)
+[probability and statistics](https://courses.edx.org/courses/course-v1:MITx+6.431x+2T2019/course)
 
 * [] week 1
 * [] week 2
