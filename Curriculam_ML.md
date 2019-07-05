@@ -8,7 +8,7 @@
 
 |Maths         |Machine Learning |
 |--------------|-------------|
-|Linear Algebra [here]('F:\linear algebra') | learn python for Data science|
+|Linear Algebra  | learn python for Data science|
 || The math of Intelligence
 || Intro to tensorflow
 |calculus | INtro to ML Udacity
@@ -28,14 +28,15 @@ __Task List__
 * [] Algorithm Design and complexity
 
 
-Linear Algebra
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
 * [X] lecture 1
 * [X] lecture 2
-* [] lecture 3
-* [] lecture 4
-* [] lecture 5
-* [] lecture 6
-* [] lecture 7
+* [X] lecture 3
+* [X] lecture 4
+* [X] lecture 5
+* [X] lecture 6
+* [X] lecture 7
 * [] lecture 8
 * [] lecture 9
 * [] lecture 10
@@ -43,4 +44,43 @@ Linear Algebra
 * [] lecture 12
 * [] lecture 13
 
+[Algorithm Design and complexity](https://courses.edx.org/courses/course-v1:PennX+SD3x+2T2017/course/)
 
+* [] week 1
+* [] week 2
+* [] week 3
+* [] week 4
+
+[Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+* [] video 1
+* [] video 2
+* [] video 3
+* [] video 4
+* [] video 5
+* [] video 6
+* [] video 7
+* [] video 8
+* [] video 9
+* [] video 10
+* [] video 11
+* [] video 12
+
+[probability and statistics](https://courses.edx.org/courses/course-v1:MITx+6.431x+2T2019/course/)
+
+* [] week 1
+* [] week 2
+* [] week 3
+* [] week 4
+
+
+# Machine learning 
+
+* [] week 1
+    * [] Day 1: Playlist from Siraj Raval's Python for data Science
+    * [] the math of intelligence
+    * [] Intro to tensorflow
+
+* [] week 2
+   * [] ML udacity
+   * 
