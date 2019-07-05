@@ -46,7 +46,7 @@ __Task List__
 
 [Algorithm Design and complexity](https://courses.edx.org/courses/course-v1:PennX+SD3x+2T2017/course/)
 
-* [] week 1
+* [x] week 1
 * [] week 2
 * [] week 3
 * [] week 4
