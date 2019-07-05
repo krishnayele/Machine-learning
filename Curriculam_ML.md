@@ -53,9 +53,9 @@ __Task List__
 
 [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-* [] video 1
-* [] video 2
-* [] video 3
+* [x] video 1
+* [x] video 2
+* [x] video 3
 * [] video 4
 * [] video 5
 * [] video 6
