@@ -17,6 +17,6 @@
 ### Weekly Challange
 
 * Introduction - Learn Python for Data Science #1
-  * [] use any 3 scikit-learn models on the dataset
-  * [] compare results
-  * [] print the best one
+  * [X] use any 3 scikit-learn models on the dataset
+  * [X] compare results
+  * [X] print the best one
