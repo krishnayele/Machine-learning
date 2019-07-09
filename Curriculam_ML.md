@@ -37,7 +37,7 @@ __Task List__
 * [X] lecture 5
 * [X] lecture 6
 * [X] lecture 7
-* [] lecture 8
+* [X] lecture 8
 * [] lecture 9
 * [] lecture 10
 * [] lecture 11
@@ -56,10 +56,10 @@ __Task List__
 * [x] video 1
 * [x] video 2
 * [x] video 3
-* [] video 4
-* [] video 5
-* [] video 6
-* [] video 7
+* [x] video 4
+* [x] video 5
+* [x] video 6
+* [x] video 7
 * [] video 8
 * [] video 9
 * [] video 10
